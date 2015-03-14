@@ -1,0 +1,1 @@
+Wielojęzykowa rozporoszona aplikacja do czegośtam. Niech każdy sobie przez swojego svn'a stworzy foldery oddzielnie na każdego klienta i każdy serwer. Protokół chyba również będzie na svnie w oddzielnym folderze - a jak nie to na dropie
